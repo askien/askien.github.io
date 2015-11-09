@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "test"
+title: "test 2"
 date: 2015-11-08 23:44:41 +0100
 comments: true
 categories: 
 ---
 Just got this activated again recently. Content soon!
+
