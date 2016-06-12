@@ -4,7 +4,7 @@
   <title><![CDATA[labrego.com]]></title>
   <link href="http://labrego.com/atom.xml" rel="self"/>
   <link href="http://labrego.com/"/>
-  <updated>2016-06-12T22:03:54+02:00</updated>
+  <updated>2016-06-12T22:16:29+02:00</updated>
   <id>http://labrego.com/</id>
   <author>
     <name><![CDATA[Jorge Martins]]></name>
@@ -14,12 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test 3]]></title>
-    <link href="http://labrego.com/blog/2015/11/08/test/"/>
-    <updated>2015-11-08T23:44:41+01:00</updated>
-    <id>http://labrego.com/blog/2015/11/08/test</id>
-    <content type="html"><![CDATA[<p>Just got this activated again recently. Content soon!
-Trying to figure this out.</p>
+    <title type="html"><![CDATA[How to Install Mitmproxy on El Capitan]]></title>
+    <link href="http://labrego.com/blog/2016/06/12/titalo/"/>
+    <updated>2016-06-12T22:05:07+02:00</updated>
+    <id>http://labrego.com/blog/2016/06/12/titalo</id>
+    <content type="html"><![CDATA[<h1>How to install mitmproxy on El Capitan</h1>
+
+<p><a href="https://www.charlesproxy.com">Charles</a> is nice, but sometimes it&rsquo;s not an
+option &ndash; for licensing issues, for example.</p>
+
+<p>A good alternative is <a href="https://mitmproxy.org">mitmproxy</a>. It&rsquo;s free, and it
+does the job well.</p>
+
+<p>To install on El Capitan:</p>
+
+<ol>
+<li>If you don&rsquo;t have pip installed: <code>sudo easy_install pip</code></li>
+<li><code>sudo pip install mitmproxy</code></li>
+<li>At this point, running mitmproxy produces this error:</li>
+</ol>
+
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>asdasdasd</span></code></pre></td></tr></table></div></figure>
+
+
+<ol>
+<li></li>
+</ol>
+
 ]]></content>
   </entry>
   
