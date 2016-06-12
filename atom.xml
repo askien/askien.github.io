@@ -4,7 +4,7 @@
   <title><![CDATA[labrego.com]]></title>
   <link href="http://labrego.com/atom.xml" rel="self"/>
   <link href="http://labrego.com/"/>
-  <updated>2016-06-12T23:48:30+02:00</updated>
+  <updated>2016-06-12T23:48:40+02:00</updated>
   <id>http://labrego.com/</id>
   <author>
     <name><![CDATA[Jorge Martins]]></name>
@@ -18,9 +18,7 @@
     <link href="http://labrego.com/blog/2016/06/12/titalo/"/>
     <updated>2016-06-12T22:05:07+02:00</updated>
     <id>http://labrego.com/blog/2016/06/12/titalo</id>
-    <content type="html"><![CDATA[<h1>How to install mitmproxy on El Capitan</h1>
-
-<p><a href="https://www.charlesproxy.com">Charles</a> is nice, but sometimes it&rsquo;s not an
+    <content type="html"><![CDATA[<p><a href="https://www.charlesproxy.com">Charles</a> is nice, but sometimes it&rsquo;s not an
 option &ndash; for licensing issues, for example.</p>
 
 <p>A good alternative is <a href="https://mitmproxy.org">mitmproxy</a>. It&rsquo;s free, and it
