@@ -4,7 +4,7 @@
   <title><![CDATA[labrego.com]]></title>
   <link href="http://labrego.com/atom.xml" rel="self"/>
   <link href="http://labrego.com/"/>
-  <updated>2016-06-12T23:52:09+02:00</updated>
+  <updated>2016-06-12T23:53:54+02:00</updated>
   <id>http://labrego.com/</id>
   <author>
     <name><![CDATA[Jorge Martins]]></name>
@@ -14,28 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[How to Install Mitmproxy on El Capitan]]></title>
+    <title type="html"><![CDATA[Still Figuring Out What I Am Going to Post Here]]></title>
     <link href="http://labrego.com/blog/2016/06/12/titalo/"/>
     <updated>2016-06-12T22:05:07+02:00</updated>
     <id>http://labrego.com/blog/2016/06/12/titalo</id>
-    <content type="html"><![CDATA[<p><a href="https://www.charlesproxy.com">Charles</a> is nice, but sometimes it&rsquo;s not an
-option &ndash; for licensing issues, for example.</p>
-
-<p>A good alternative is <a href="https://mitmproxy.org">mitmproxy</a>. It&rsquo;s free, and it
-does the job well.</p>
-
-<p>To install on El Capitan:</p>
-
-<ol>
-<li>If you don&rsquo;t have pip installed: <code>sudo easy_install pip</code></li>
-<li><code>sudo pip install mitmproxy</code></li>
-<li><p>At this point, running mitmproxy produces this error:</p>
-
-<pre><code class="`"> asdasdasd
-</code></pre></li>
-<li><p>Bullet 4</p></li>
-</ol>
-
+    <content type="html"><![CDATA[<p>Work in progress.</p>
 ]]></content>
   </entry>
   
