@@ -4,7 +4,7 @@
   <title><![CDATA[labrego.com]]></title>
   <link href="http://labrego.com/atom.xml" rel="self"/>
   <link href="http://labrego.com/"/>
-  <updated>2016-06-12T22:16:29+02:00</updated>
+  <updated>2016-06-12T23:48:30+02:00</updated>
   <id>http://labrego.com/</id>
   <author>
     <name><![CDATA[Jorge Martins]]></name>
@@ -40,7 +40,7 @@ does the job well.</p>
 
 
 <ol>
-<li></li>
+<li>Bullet 4</li>
 </ol>
 
 ]]></content>
