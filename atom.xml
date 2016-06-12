@@ -4,7 +4,7 @@
   <title><![CDATA[labrego.com]]></title>
   <link href="http://labrego.com/atom.xml" rel="self"/>
   <link href="http://labrego.com/"/>
-  <updated>2016-06-12T23:48:40+02:00</updated>
+  <updated>2016-06-12T23:50:49+02:00</updated>
   <id>http://labrego.com/</id>
   <author>
     <name><![CDATA[Jorge Martins]]></name>
@@ -29,15 +29,10 @@ does the job well.</p>
 <ol>
 <li>If you don&rsquo;t have pip installed: <code>sudo easy_install pip</code></li>
 <li><code>sudo pip install mitmproxy</code></li>
-<li>At this point, running mitmproxy produces this error:</li>
-</ol>
-
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>asdasdasd</span></code></pre></td></tr></table></div></figure>
-
-
-<ol>
+<li>At this point, running mitmproxy produces this error:
+ <code>
+ asdasdasd
+</code></li>
 <li>Bullet 4</li>
 </ol>
 
